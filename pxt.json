@@ -1,0 +1,16 @@
+{
+    "name": "coding-concepts",
+    "version": "0.1.0",
+    "description": "WIP programming tutorial",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ]
+}
